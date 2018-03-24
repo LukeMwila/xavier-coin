@@ -1,0 +1,25 @@
+{
+  "name": "xavier-coin",
+  "version": "1.0.0",
+  "description": "A simple blockchain application in JS",
+  "main": "main.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "moment": "^2.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeMwila/xavier-coin.git"
+  },
+  "author": "Luke Mwila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeMwila/xavier-coin/issues"
+  },
+  "homepage": "https://github.com/LukeMwila/xavier-coin#readme"
+}
